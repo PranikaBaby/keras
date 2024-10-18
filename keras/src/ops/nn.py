@@ -1,4 +1,3 @@
-"""Commonly-used neural network operations not included in NumPy."""
 
 import warnings
 
